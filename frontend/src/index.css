@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 .bg-primary{
-    @apply bg-[#e1ff0f];
+    @apply bg-[#86F8FE];
 }
 
 .bg-secondary{
