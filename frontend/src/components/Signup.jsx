@@ -1,10 +1,9 @@
 import React from 'react'
+import AuthPage from '../pages/AuthPage'
 
 const Signup = () => {
   return (
-    <div>
-      Signup
-    </div>
+    <AuthPage login={false}/>
   )
 }
 

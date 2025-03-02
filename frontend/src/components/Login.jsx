@@ -1,10 +1,9 @@
 import React from 'react'
+import AuthPage from '../pages/AuthPage'
 
 const Login = () => {
   return (
-    <div>
-      Login
-    </div>
+    <AuthPage login={true}/>
   )
 }
 
